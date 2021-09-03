@@ -330,3 +330,6 @@ const styles = StyleSheet.create({
     paddingHorizontal: 40,
   },
 });
+
+//if redux
+//export default connect(mapStateToProps, mapDispatchToProps)(copilot()(MainDashboard));
